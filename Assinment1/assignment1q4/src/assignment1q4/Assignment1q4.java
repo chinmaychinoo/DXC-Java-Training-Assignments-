@@ -1,0 +1,16 @@
+package assignment1q4;
+
+
+
+public class Assignment1q4 {
+	
+
+public static void main(String[] args) {
+	int i;
+ for(i=1 ; i <= 10 ; i++ ) {
+	 System.out.println(i);
+	 
+ }
+	
+}
+}
